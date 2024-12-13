@@ -1,0 +1,6 @@
+@BlazingQuiz.API_HostAddress = http://localhost:5044
+
+GET {{BlazingQuiz.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
